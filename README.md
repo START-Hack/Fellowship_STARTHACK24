@@ -1,10 +1,39 @@
-# <p align="center"> START Fellowship </p>
+# <p align="center"> START Hack 2024 - START Fellowship Case </p>
+
+**<p align="center"> Centralizing START Fellowship Ecosystem: A Unified Platform Approach </p>**
+
+<br>
+
 
 ## <p align="center"> Case Introduction: </p>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In in sodales turpis. Donec euismod diam sit amet fermentum imperdiet. Donec justo mi, lacinia sed dolor vel, convallis tincidunt ligula. Duis suscipit ante tellus, lacinia venenatis lorem suscipit in. Sed ac ipsum tincidunt, consequat est ut, molestie nunc. Donec efficitur risus ut erat luctus, id congue odio rhoncus. Curabitur neque lorem, maximus at est sit amet, semper vehicula libero. Aliquam a fermentum leo. Mauris rhoncus lorem sed lorem auctor, eu tempus risus ultrices. Proin condimentum sem at commodo congue. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Pellentesque dapibus, tortor in feugiat varius, sem purus aliquet quam, vel volutpat lorem nibh eu lacus. Donec massa ligula, auctor vitae erat eget, vulputate sagittis nisl. Praesent iaculis, lectus ut volutpat interdum, eros odio vestibulum eros, eget porta tellus lectus vitae massa. 
+**<p align="left"> Problem </p>**
 
-Morbi vitae diam at diam pellentesque tempor. Vivamus porttitor turpis quis felis accumsan, ut imperdiet dui tincidunt. Aenean a est dapibus, dictum velit at, eleifend erat. Proin ut faucibus dolor. Vestibulum pulvinar magna at consectetur posuere. Sed in dolor id enim tempus malesuada. Pellentesque nec dignissim erat, ut feugiat turpis.
+START Fellowship is a student-run accelerator and incubator aimed at empowering young entrepreneurs from low- and middle- income countries through an interdisciplinary program. Every year we bring around 35 startups for 4 months to Switzerland and help them to accelerate their startup. Over the last four Batches we encountered different problems regarding monitoring the progress of the startups. We face fragmented communication and resource tracking across the START Fellowship Community and the Accelerator Batches. Mainly distributed across Notion, Slack, Whatsapp and LinkedIn, leading to inefficient data handling within START Fellowship.
+
+**<p align="left"> Expected final product </p>**
+
+A comprehensive platform that centralizes all the information about the startups from the current and the previous batches. The goal is that START Fellowship Team as well as the key stakeholders (strategic partners, investors, mentors etc.)  can track the progress of the startups. The centralized database should streamline data handling and improve the current CRM structure. ([the Y-Combinator Startup Directory](https://www.ycombinator.com/companies?batch=S23) can serve as an example)  
+As additional features the Hack Team can think of ways to integrate some of the following processes into the platform:
+
++ Application Process: Currently on Hubspot 
++ Request Forms: currently on Asana 
++ Mentor & Coaching Pool
++ Partner Database
++ Dashboard for the Fellows
++ Event organization
++ Community engagement
++ START Fellowship communication
++ etc. (be creative and surprise us)
+
+**<p align="left"> Users of this solution </p>**
+
++ START Global Alumni & Team: The Team which is organizing the START Fellowship Accelerator and needs to keep track of the progress/success of the startups
++ START Fellows: The founders of the startups in the current Batch
++ START Fellow Alumni: Former START Fellows from the previous Batches
++ Partners/Mentors from START Fellowship: Key Stakeholders who want to monitor the success of the startups
++ START Chapters (mainly Bogota, Quito, Lima): sub student organizations, who are representing START Global in their country
+
 
 ## <p align="center"> The Pitch: </p>
 
