@@ -4,7 +4,6 @@
 
 <br>
 
-
 ## <p align="center"> Case Introduction: </p>
 
 **<p align="left"> Problem </p>**
@@ -35,7 +34,7 @@ As additional features the Hack Team can think of ways to integrate some of the 
 + START Chapters (mainly Bogota, Quito, Lima): sub student organizations, who are representing START Global in their country
 
 
-## <p align="center"> The Pitch: </p>
+## <p align="center"> The Video: </p>
 
 <p align="center"> Insert Pitchdeck here </p>
 
@@ -45,16 +44,54 @@ As additional features the Hack Team can think of ways to integrate some of the 
 
 ## <p align="center"> Further Information: </p>
 
-Pellentesque vehicula nibh ut metus tempor, id finibus ligula auctor. Vivamus semper dui semper ante condimentum commodo. Sed eget odio ac odio rutrum viverra eget ut dui. Sed scelerisque sem sit amet auctor gravida. Curabitur auctor urna quis lacus tempus luctus. Phasellus dictum erat sit amet nulla commodo egestas. Suspendisse potenti. Duis quis justo ut quam mollis venenatis vel ut ipsum. Integer ornare, neque ut aliquam convallis, odio eros rutrum quam, non pharetra turpis nisl ac arcu. Fusce in nulla tempor, semper nisi eu, sollicitudin est.
+**<p align="left"> Technology </p>**
+
+The solution requires a serverless architecture with data hosting on platforms like Airtable, integration with CRM tools such as HubSpot, and the use of APIs for seamless connectivity between different software tools. Communication integration via Google Workspace & Slack should be feasible. Currently we are using Hubspot but we are open for new solutions, such as Airtable.
+
+**<p align="left"> Use Case (and business case) </p>**
+The platform will serve as the central organ for START Fellowship Incubator/Accelerator/Comunity, enhancing UI-platform use for START Fellows, Team, and partners to engage during the current cohort and community later.
 
 ##  <p align="center"> Resources: </p>
-- Lorem ipsum dolor sit amet
-- consectetur adipiscing elit
+
+[Mockup - Information on all Startups quarterly-measured AFTER Accelerator](https://docs.google.com/spreadsheets/d/1tvsNZGF2nvwiWPqqJQE77h-1ADf98hCeLWJNj4_owVA/edit?usp=sharing)
+
+[START Media Kit](https://startglobal.frontify.com/)
+
+[Mockup - Mentor & Coaching Pool Mockup](https://docs.google.com/spreadsheets/d/1xBonv943-RjuO0Sn9IOoA6CrVMXD-wyEs8Yk2uLQ368/edit?usp=sharing)
+
+[Partner Database](https://startglobal1920.notion.site/Partners-START-Fellowship-82bcf09c3b7d43c19778a7b03882c03c)
+
+[Example Eventbrite Pitching competition](https://www.eventbrite.com/e/start-fellowship-partner-reception-in-bogota-tickets-690888535207?aff=oddtdtcreator)
+
+[START Fellowship Accelerator Application Form](https://share.hsforms.com/1ekEX1rGkSPmmbdZEmMOpCA49mld)
+
+[Intro Request Forms](https://drive.google.com/drive/folders/1UPjZzPggJ9YhgXix2ocBy4GrwsByByZ9?usp=sharing)
+
+[Application Process ](https://drive.google.com/drive/folders/1UPjZzPggJ9YhgXix2ocBy4GrwsByByZ9?usp=sharing)
 
 
 ## <p align="center"> Judging Criteria: </p>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In in sodales turpis. Donec euismod diam sit amet fermentum imperdiet. Donec justo mi, lacinia sed dolor vel, convallis tincidunt ligula. Duis suscipit ante tellus, lacinia venenatis lorem suscipit in. Sed ac ipsum tincidunt, consequat est ut, molestie nunc. Donec efficitur risus ut erat luctus, id congue odio rhoncus. Curabitur neque lorem, maximus at est sit amet, semper vehicula libero. Aliquam a fermentum leo. Mauris rhoncus lorem sed lorem auctor, eu tempus risus ultrices. Proin condimentum sem at commodo congue.
+**MVP (Absolute Necessity)**
++ The development of a Minimum Viable Product (MVP) is an absolute requirement.
++ The MVP must be developed to demonstrate essential functionalities and validate core concepts before further investment or expansion.
+
+**1. Creativity and innovation (20%)**
++ Design: Platform should have an innovative and visually appealing design, incorporating elements that reflect the spirit of the START Fellowship.
++ Solution idea: Platform should offer a unique solution that integrates communication and resource tracking functions, providing a centralised hub.
+**2. Visual Design (20%)**
++ The platform should have a user-friendly interface with easy navigation, modern design, and visually engaging features.
+**3. Feasibility (30%)**
++ Practicality of the solution: Platform should be realistic and feasible to implement within the resources and technological capabilities.
++ Impact: The potential of the solution to improve data handling and streamline communication within the START Fellowship
++ Ease of implementation: It should be relatively straightforward to integrate the platform.
+**4. Reachability (20%)**
++ Engagement: The solution should effectively engage and retain users within the START ecosystem
+**5. Presentation and Communication Skills (10%)**
++ Clarity: The presentation is understandable, visually appealing, well organized and well structured.
++ Message: Ability to convey the significance of the solution.
++ Time management
+
 
 ## <p align="center"> Point of Contact: </p>
 
