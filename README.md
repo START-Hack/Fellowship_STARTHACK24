@@ -56,7 +56,7 @@ Our current stack is the following:
 Don’t be afraid to build on open source software!
 
 
-**<p align="left"> Use Case (and business case) </p>**
+**<p align="left"> Use Case (and Business Case) </p>**
 The platform will serve as the central organ for START Fellowship Incubator/Accelerator/Comunity, enhancing UI-platform use for START Fellows, Team, and partners to engage during the current cohort and community later.
 
 ##  <p align="center"> Resources: </p>
