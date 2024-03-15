@@ -46,7 +46,15 @@ As additional features the Hack Team can think of ways to integrate some of the 
 
 **<p align="left"> Technology </p>**
 
-The solution requires a serverless architecture with data hosting on platforms like Airtable, integration with CRM tools such as HubSpot, and the use of APIs for seamless connectivity between different software tools. Communication integration via Google Workspace & Slack should be feasible. Currently we are using Hubspot but we are open for new solutions, such as Airtable.
+We are heavily reliant on SaaS products in our enterprise stack, so API connections are a must. 
+Our current stack is the following:
++ Communication: Slack & Google Workspace
++ CRM + Website: HubSpot
++ Data: Airtable + Zoho (+ Zapier)
++ Documentation: Notion
++ Task Management: Asana
+Don’t be afraid to build on open source software!
+
 
 **<p align="left"> Use Case (and business case) </p>**
 The platform will serve as the central organ for START Fellowship Incubator/Accelerator/Comunity, enhancing UI-platform use for START Fellows, Team, and partners to engage during the current cohort and community later.
@@ -73,31 +81,55 @@ The platform will serve as the central organ for START Fellowship Incubator/Acce
 ## <p align="center"> Judging Criteria: </p>
 
 **MVP (Absolute Necessity)**
-+ The development of a Minimum Viable Product (MVP) is an absolute requirement.
++ The development of a Minimum Viable Product (MVP) is an **absolute requirement.**
 + The MVP must be developed to demonstrate essential functionalities and validate core concepts before further investment or expansion.
 
 **1. Creativity and innovation (20%)**
 + Design: Platform should have an innovative and visually appealing design, incorporating elements that reflect the spirit of the START Fellowship.
 + Solution idea: Platform should offer a unique solution that integrates communication and resource tracking functions, providing a centralised hub.
+
 **2. Visual Design (20%)**
 + The platform should have a user-friendly interface with easy navigation, modern design, and visually engaging features.
+
 **3. Feasibility (30%)**
 + Practicality of the solution: Platform should be realistic and feasible to implement within the resources and technological capabilities.
 + Impact: The potential of the solution to improve data handling and streamline communication within the START Fellowship
 + Ease of implementation: It should be relatively straightforward to integrate the platform.
+
 **4. Reachability (20%)**
 + Engagement: The solution should effectively engage and retain users within the START ecosystem
+
 **5. Presentation and Communication Skills (10%)**
 + Clarity: The presentation is understandable, visually appealing, well organized and well structured.
 + Message: Ability to convey the significance of the solution.
 + Time management
 
+## <p align="center"> Presentation Prototype: </p>
+
+Format:
++ Interactive walkthrough.
+
+Key elements:
++ Dashboard with all the relevant informations about the startups
++ Possibility to track the progress of the startups
++ Bot asking every 3 months all users (Fellows, Team) for updates on their profiles, with data we need.
+
+Requirements:
++ The prototype should clearly showcase how the platform addresses the identified problem and benefits the START ecosystem.
 
 ## <p align="center"> Point of Contact: </p>
 
-<p align="center"> Name, Name, or Name will be glad to answer your questions during the Deep Dive. We’ll also be available on Discord. </p>
+<p align="center"> Razan Khattab: +41 79 154 48 84, Samuel Kehl, +41 79 870 55 74
+
+ </p>
 
 
-## <p align="center"> Prize - the winning team members will each receive: </p>
+## <p align="center"> Prize & Buyback option </p>
 
-### Prize Name
+Each team member will receive:
++ Ledger Nano S plus
++ Flipper Zero
+ </p>
+
++ 1'500 CHF Buyback Option (The START Fellowship Team has the right to buy the IP rights and all aspects of the final product as mentioned in the contract.  Every Team which is working on the START Fellowship Hack Case has to sign the contract.)
+
