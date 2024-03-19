@@ -36,11 +36,11 @@ As additional features the Hack Team can think of ways to integrate some of the 
 
 ## <p align="center"> The Video: </p>
 
-<p align="center"> [Video](https://drive.google.com/file/d/1g7Eg3eQ59kJAxkuUbMDLM5GQZ4Z9R4aA/view?usp=sharing) </p>
+<p align="center"> https://drive.google.com/file/d/1g7Eg3eQ59kJAxkuUbMDLM5GQZ4Z9R4aA/view?usp=sharing </p>
 
 ## <p align="center"> Deep Dive Slides: </p>
 
-<p align="center"> [Deep Dive Slides](https://drive.google.com/file/d/1NYFMz2RDxcPzZ4otUvfTlyF9KHKX76pl/view?usp=sharing) </p>
+<p align="center"> https://drive.google.com/file/d/1NYFMz2RDxcPzZ4otUvfTlyF9KHKX76pl/view?usp=sharing </p>
 
 ## <p align="center"> Further Information: </p>
 
